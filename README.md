@@ -10,7 +10,7 @@ Esta é uma landing page para uma Pet Shop, feita com HTML CSS.
 
 ## Visualizar o projeto
 
-Acesse o projeto online em: []
+Acesse o projeto online em: [https://kalebtavares.github.io/We-Care/]
 
 ## Tecnologias utilizadas
 
