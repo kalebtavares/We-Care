@@ -18,17 +18,41 @@ header {
   margin-right: 23px;
 }
 
-.button-header{
+.button-header {
   width: 130px;
   height: 41px;
   border-radius: 20.5px;
-  background: #665AE1;
+  background: #665ae1;
   font-size: 24px;
-  color: #FFF;
+  color: #fff;
   border: none;
+  cursor: pointer;
 }
 
 .logo-image {
   width: 568px;
   height: 500px;
+  margin-left: 125px;
+  display: inline-block;
+}
+
+section{
+  display: inline-block;
+
+}
+
+h1{
+color: #515151;
+font-size: 100px;
+font-weight: 900;
+line-height: 122px;
+
+}
+
+h2{
+color: #515151;
+font-size: 58px;
+font-weight: 500;
+line-height: 71px;
+
 }
