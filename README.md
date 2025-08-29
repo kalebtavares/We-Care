@@ -1,6 +1,7 @@
 # Landing Page - We Care
 
 Esta é uma landing page para uma Pet Shop, feita com HTML CSS.
+ - Página desenvolvida para dispositivos desktop.
 
 ## Como começar
 
