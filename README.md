@@ -17,7 +17,7 @@ Acesso o Projeto no Figma em: [https://www.figma.com/design/e05eBQ6NZjtoDxGe8vFh
 ## Tecnologias utilizadas
 
 - **HTML** - Estrutura da página.
-- **CSS** - Estilização responsiva e moderna.
+- **CSS** - Estilização moderna.
 - **Figma** - Base visual utilizada para criação do projeto.
   
 
